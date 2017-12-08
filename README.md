@@ -1,8 +1,8 @@
 # raboti.github.com
 <html>
-     <head>
+<head>
 <title> Решу ОГЭ </title>
-     </head>
+</head>
 <body>
 
 <h1>
